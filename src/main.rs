@@ -1,3 +1,4 @@
 fn main() {
-    println!("I'm changing code from the github website!");
+    let x = 2;
+    println!("2 + 2 = {}", 2 + x);
 }
